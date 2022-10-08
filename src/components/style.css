@@ -124,3 +124,7 @@
 .dropdownItem:hover {
   background-color: rgba(193, 231, 244, 0.5);
 }
+
+.dropdownItem.highlight {
+  background-color: rgba(193, 231, 244, 0.5);
+}
