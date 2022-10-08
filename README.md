@@ -2,6 +2,8 @@
 
 ## Instructions to run project
 
+NOTE: There is also a live demo at https://codesandbox.io/s/dropdowns-4vli7m
+
 In the current directory, run `npm install` to get all the dependencies, then run `npm start` and the demo should be active at `localhost:3000`.
 
 The window containing both the multiple and single-option dropdown demo should appear.
