@@ -2,7 +2,7 @@
 
 ## Instructions to run project
 
-In the current directory, run `npm start`.
+In the current directory, run `npm install` to get all the dependencies, then run `npm start` and the demo should be active at `localhost:3000`.
 
 The window containing both the multiple and single-option dropdown demo should appear.
 
